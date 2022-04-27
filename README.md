@@ -1,6 +1,7 @@
-<img src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" align="right" width="400" height="250">
-### Hi, Welcome To My Github Profile 👋 👋 👋
-### I'm Emrehan. :blush: 
+<img src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" align="right" width="400" height="250">
+
+## Hi, Welcome To My Github Profile 👋 👋 👋
+## I'm Emrehan. :blush: 
 
 ## React Developer
 
