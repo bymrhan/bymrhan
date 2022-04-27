@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Emrehan</h1>
 <h3 align="center">React Developer</h3>
 
-<p  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) /p>
+<p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </p>
+
 - Website: [emrehanbaysal.xyz](https://www.emrehanbaysal.xyz//)
 - Email: [bymrhan@gmail.com](mailto:bymrhan@gmail.com)
 
