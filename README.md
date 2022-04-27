@@ -29,7 +29,7 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=bymrhan" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&layout=compact&theme=bymrhan" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=bymrhan&show_icons=true&theme=bymrhan" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymrhan&layout=compact&theme=bymrhan" height="180">
   
 </p>
