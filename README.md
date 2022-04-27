@@ -1,5 +1,6 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" height="250"/>
 <h1 align="center">Hi 👋, I'm Emrehan</h1>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 <h3 align="center">React Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bymrhan&label=Profile%20views&color=0e75b6&style=flat" alt="bymrhan" /> </p>
