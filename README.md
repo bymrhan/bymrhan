@@ -1,9 +1,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="480" height="400"/>
 <h1 align="center">Hi 👋, I'm Emrehan</h1>
-
-Website: [emrehanbaysal.xyz](https://www.emrehanbaysal.xyz//)
-- Email: [maximousblk@gmail.com](mailto:bymrhan@gmail.com)
 <h3 align="center">React Developer</h3>
+- Website: [emrehanbaysal.xyz](https://www.emrehanbaysal.xyz//)
+- Email: [maximousblk@gmail.com](mailto:bymrhan@gmail.com)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bymrhan&label=Profile%20views&color=0e75b6&style=flat" alt="bymrhan" /> </p>
