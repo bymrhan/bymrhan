@@ -32,13 +32,18 @@
     </td>
     <td align="center" width="128">
       <a href="">
-        <img src="https://user-images.githubusercontent.com/81330668/172255470-55880293-c49a-4089-ae7c-6b1b329f8b4a.png" width="128" height="128" alt="ccna" />
+        <img src="https://user-images.githubusercontent.com/81330668/172255470-55880293-c49a-4089-ae7c-6b1b329f8b4a.png" width="128" height="128" alt="Cisco" />
       </a>
-      <br>Ccna
+      <br>Cisco Ccna
+    </td>
+     <td align="center" width="128">
+      <a href="https://github.com/bymrhan/bymrhan/files/8848695/Bilgi_Teknolojilerine_Giri__Sertifika.pdf">
+        <img src="https://user-images.githubusercontent.com/81330668/172261742-0e1f3050-438d-4241-a2b1-60ce2c228f02.png" width="78" height="78" alt="Introduction to Information Technologies" />
+      </a>
+      <br>Introduction to Information Technologies
     </td>
   </tr>
 </table>
-
 
 
 
