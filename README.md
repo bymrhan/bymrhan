@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Emrehan ᓚᘏᗢ</h1>
+<h1 align="center">Hi 👋, I'm Emrehan &nbsp; ᓚᘏᗢ</h1>
 <img  align="center" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="45%"/>
 
 <h3 align="center">React Developer</h3>
@@ -13,6 +13,31 @@
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bymrhan&label=Profile%20views&color=0e75b6&style=flat" alt="bymrhan" /> </p>
+
+<h2 align="left" id="macropower-tech">My certificates</h2>
+
+<table>
+  <tr>
+    <td align="center" width="128">
+      <a href="https://github.com/bymrhan/bymrhan/files/8848120/Sosyal_Medya_Uzmanligi.pdf">
+        <img src="https://static.fullestop.com/images/social-media-image.svg" width="128" height="128" alt="Social Media Manager" />
+      </a>
+      <br>Social Media Manager
+    </td>
+    <td align="center" width="128">
+      <a href="https://github.com/bymrhan/bymrhan/files/8848300/Emrehan.Baysal.pdf">
+        <img src="https://icons.veryicon.com/png/o/business/bitcoin-icon/blockchain-1.png" width="98" height="98" alt="Python" />
+      </a>
+      <br>Blockchain Technology and Cryptography
+    </td>
+    <td align="center" width="128">
+      <a href="">
+        <img src="https://user-images.githubusercontent.com/81330668/172255470-55880293-c49a-4089-ae7c-6b1b329f8b4a.png" width="128" height="128" alt="ccna" />
+      </a>
+      <br>Ccna
+    </td>
+  </tr>
+</table>
 
 
 
