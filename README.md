@@ -42,6 +42,12 @@
       </a>
       <br>Introduction to Information Technologies
     </td>
+    <td align="center" width="128">
+      <a href="">
+        <img src="https://www.claranet.ch/sites/all/assets/ch/icon-devsecops-training_0.svg" width="78" height="78" alt="Introduction to Information Technologies" />
+      </a>
+      <br>Security Test Training
+    </td>
   </tr>
 </table>
 
