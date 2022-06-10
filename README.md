@@ -11,6 +11,8 @@
 - Email: [bymrhan@gmail.com](mailto:bymrhan@gmail.com)
 - Bionluk: [FPR Bilişim](https://bionluk.com/fprbilisim)
 
+<h2 align="left" id="macropower-tech">What's FPR Informatics</h2>
+<p> The 'Bionluk' internet group was founded by our group of 3 friends </p>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bymrhan&label=Profile%20views&color=0e75b6&style=flat" alt="bymrhan" /> </p>
 
