@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Emrehan &nbsp; ᓚᘏᗢ</h1>
 
 
-<h3 align="center">React Developer</h3>
 <img  align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%"/>
 <p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </p>
 
