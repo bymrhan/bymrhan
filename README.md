@@ -6,10 +6,13 @@
 <img  align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%"/>
 <p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </p>
 
-- Website: [emrehanbaysal.xyz](https://www.emrehanbaysal.xyz/)
+- Website: [emrehanbaysal.xyz](https://www.emrehanbaysal.com.tr/)
 - Email: [bymrhan@gmail.com](mailto:bymrhan@gmail.com)
 - Bionluk: [FPR Bilişim](https://bionluk.com/fprbilisim)
 
+<h2 align="left" id="macropower-tech">Bionluktan gelenler için bağlantı linki</h2>
+<a href="https://api.whatsapp.com/send/?phone=905422719182&text&type=phone_number&app_absent=0"><img src="https://talentcorner.in/wp-content/uploads/2021/03/whatsapp-button.png" alt="wp button" style="width:320px;height:120px;"></a>
+<br />
 <h2 align="left" id="macropower-tech">What's FPR Informatics</h2>
 <p> The 'Bionluk' internet group was founded by our group of 3 friends </p>
 <br />
