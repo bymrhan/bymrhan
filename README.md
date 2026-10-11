@@ -1,88 +1,59 @@
+<p align="center"><a href="README.tr.md">Türkçe</a> · <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.zh.md">简体中文</a> · <a href="README.ar.md">العربية</a> · <a href="profile.json">Structured profile / AI</a></p>
 
+<p align="center"><img src="assets/hero-hd.png" width="100%" alt="Cinematic mobile, software and infrastructure cover" /></p><h1 align="center">Emrehan Baysal</h1><p align="center"><strong>SOFTWARE · MOBILE · INFRASTRUCTURE · AUTOMATION</strong></p>
 
-<h1 align="center">Hi 👋, I'm Emrehan &nbsp; ᓚᘏᗢ</h1>
-
-
-<img  align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%"/>
-<p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) </p>
-
-- Website: [emrehanbaysal.xyz](https://www.emrehanbaysal.com.tr/)
-- Email: [bymrhan@gmail.com](mailto:bymrhan@gmail.com)
-- Bionluk: [FPR Bilişim](https://bionluk.com/fprbilisim)
-
-<h2 align="left" id="macropower-tech">Bionluktan gelenler için bağlantı linki</h2>
-<a href="https://api.whatsapp.com/send/?phone=905422719182&text&type=phone_number&app_absent=0"><img src="https://talentcorner.in/wp-content/uploads/2021/03/whatsapp-button.png" alt="wp button" style="width:320px;height:120px;"></a>
-<br />
-<h2 align="left" id="macropower-tech">What's FPR Informatics</h2>
-<p> The 'Bionluk' internet group was founded by our group of 3 friends </p>
-<br />
-
-<h2 align="left" id="macropower-tech">CV - Resume</h2>
- 
-- CV: [reach by clicking](https://drive.google.com/file/d/15BtJLWV0WxeGHWGHbVboyOfnIYZIgjpZ/view?usp=sharing)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bymrhan&label=Profile%20views&color=0e75b6&style=flat" alt="bymrhan" /> </p>
-
-<h2 align="left" id="macropower-tech">My certificates</h2>
-
-<table>
-  <tr>
-    <td align="center" width="128">
-      <a href="https://github.com/bymrhan/bymrhan/files/8848120/Sosyal_Medya_Uzmanligi.pdf">
-        <img src="https://static.fullestop.com/images/social-media-image.svg" width="128" height="128" alt="Social Media Manager" />
-      </a>
-      <br>Social Media Manager
-    </td>
-    <td align="center" width="128">
-      <a href="https://github.com/bymrhan/bymrhan/files/8848300/Emrehan.Baysal.pdf">
-        <img src="https://icons.veryicon.com/png/o/business/bitcoin-icon/blockchain-1.png" width="98" height="98" alt="Python" />
-      </a>
-      <br>Blockchain Technology and Cryptography
-    </td>
-    <td align="center" width="128">
-      <a href="">
-        <img src="https://user-images.githubusercontent.com/81330668/172255470-55880293-c49a-4089-ae7c-6b1b329f8b4a.png" width="128" height="128" alt="Cisco" />
-      </a>
-      <br>Cisco Ccna
-    </td>
-     <td align="center" width="128">
-      <a href="https://github.com/bymrhan/bymrhan/files/8848695/Bilgi_Teknolojilerine_Giri__Sertifika.pdf">
-        <img src="https://user-images.githubusercontent.com/81330668/172261742-0e1f3050-438d-4241-a2b1-60ce2c228f02.png" width="78" height="78" alt="Introduction to Information Technologies" />
-      </a>
-      <br>Introduction to Information Technologies
-    </td>
-    <td align="center" width="128">
-      <a href="">
-        <img src="https://www.claranet.ch/sites/all/assets/ch/icon-devsecops-training_0.svg" width="78" height="78" alt="Introduction to Information Technologies" />
-      </a>
-      <br>Security Test Training
-    </td>
-    </td>
-    <td align="center" width="128">
-      <a href="">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="78" height="78" alt="Web Development with HTML5" />
-      </a>
-      <br>Web Development with HTML5
-    </td>
-  </tr>
-</table>
-
-
-
-<h3 align="left"> 📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emrehan-baysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrehan-baysal" height="30" width="40" /></a><a href="https://instagram.com/emrehanbysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emrehanbysal" height="30" width="40" /></a><a href="https://bionluk.com/fprbilisim" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/XDKGzDD_jjY_KrqZg3COTdV9oW5e4lZjgOPGP07aOIaNsCqNdvcmVrocc7XFr01PdR0P" alt="emrehanbysal" height="30" width="30" /></a>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Mobile+%26+Web+Development;Falabi+%C2%B7+MAIA+%C2%B7+Trade;AI-Assisted+Development+%26+Automation;IT+Infrastructure+%26+Microsoft+365" alt="Mobile and Web Development · Falabi · MAIA · Trade · IT Infrastructure" width="100%" /></a>
 </p>
 
-<h3 align="left">⭐ Languages and Tools:</h3>
-<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/453/918/png-transparent-net-framework-software-framework-microsoft-corporation-model-view-controller-java-server-pages-blue-text-logo.png" alt="selenium" height="40"/> </a> </p>
+<p align="center"><a href="https://www.emrehanbaysal.com.tr/"><img src="assets/contact-website.en.svg" width="23%" alt="Website — emrehanbaysal.com.tr" /></a> <a href="https://linkedin.com/in/emrehan-baysal"><img src="assets/contact-linkedin.en.svg" width="23%" alt="LinkedIn — emrehan-baysal" /></a> <a href="mailto:bymrhan@gmail.com"><img src="assets/contact-email.en.svg" width="23%" alt="Email — bymrhan@gmail.com" /></a> <a href="https://bionluk.com/fprbilisim"><img src="assets/contact-bionluk.en.svg" width="23%" alt="Bionluk — FPR Bilişim" /></a> </p>
 
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bymrhan&show_icons=true&locale=en&layout=compact" alt="bymrhan" /></p>
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bymrhan&show_icons=true&locale=en" alt="bymrhan" /></p>
+<h2>01 / A builder at heart ᓚᘏᗢ</h2>
+<p>Hi, I'm <strong>Emrehan</strong>. I build mobile and web applications, explore automation, and work on the infrastructure that keeps systems running.</p>
+<p>My work connects <strong>software development, product design, IT infrastructure, and data-driven tools</strong>. From Falabi and MAİA to Trade-related ideas, I enjoy turning a real need into a useful product — shaping the interface, connecting services, and improving how it works.</p>
+<p>I use AI tools as part of my development workflow: exploring ideas, reviewing code, debugging, and iterating on features. I also enjoy financial market analysis, visual design, and finding ways to automate recurring work. Always happy to meet curious people and share ideas.</p>
+
+<h2>02 / What I'm building &amp; exploring</h2>
+<table>
+<tr><td width="50%" valign="top"><h3>🔮 Falabi</h3><p><strong>Mobile application development</strong></p><p>Working on a mobile product with React Native, Expo, and TypeScript. My interests include interface design, motion, navigation, localization, and the experience behind each feature.</p><p>In development · Mobile / Product / UX</p></td><td width="50%" valign="top"><h3>🧠 MAİA</h3><p><strong>IT management &amp; intelligence tools</strong></p><p>Developing workflows around service management, Microsoft 365, email and domain analysis, monitoring, alerts, and reporting.</p><p>In development · Web / Infrastructure / Analytics</p></td></tr>
+<tr><td width="50%" valign="top"><h3>📈 Trade &amp; Market Tools</h3><p><strong>Financial data &amp; analysis</strong></p><p>Exploring market research, price tracking, dashboards, and software tools that make financial data easier to follow and interpret.</p><p>Exploration &amp; development · Data / Markets</p></td><td width="50%" valign="top"><h3>⚡ Automation &amp; AI</h3><p><strong>Less repetitive work, more useful tools</strong></p><p>Exploring scripts, browser utilities, data extraction and reporting workflows. Using AI-assisted coding to turn ideas into practical features.</p><p>Ongoing experiments · Tools / Integrations</p></td></tr>
+</table>
+
+<h2>03 / Infrastructure &amp; freelance services</h2>
+<table>
+<tr><td width="50%" valign="top"><h3>☁️ Microsoft 365 &amp; Email</h3><p>Microsoft 365 setup · Exchange Online · Outlook troubleshooting · Mail migration · Shared mailboxes · MFA · Online archive</p><p><strong>Mail delivery:</strong> SPF / DKIM / DMARC, DNS / MX / SMTP, mail flow and spam analysis.</p></td><td width="50%" valign="top"><h3>🌐 Network &amp; Security</h3><p>FortiGate · Firewall policies · NAT / VIP · Port forwarding · VPN troubleshooting · UniFi · IP / DNS / Wi-Fi</p><p>Practical support for connectivity and network configuration problems.</p></td></tr>
+<tr><td width="50%" valign="top"><h3>🖥️ Systems &amp; Backup</h3><p>Windows Server · Active Directory · GPO · File Server · NTFS / SMB permissions · RDP · Veeam Backup · VMware ESXi</p><p>Setup, configuration and troubleshooting for everyday infrastructure needs.</p></td><td width="50%" valign="top"><h3>⚙️ Software &amp; Automation</h3><p>React Native / Expo · TypeScript / React · C# / .NET · Web development · Inventory tools · Automation projects</p><p>I use code to explore ideas and make recurring work easier.</p><p><a href="https://bionluk.com/fprbilisim"><strong>Explore my freelance services ↗</strong></a></p></td></tr>
+</table>
+
+<h2>04 / My toolkit</h2>
+<p align="center"><img src="assets/tech-showcase.en.svg" width="100%" alt="POWERED BY AI — React, TypeScript, React Native, Expo, C#/.NET, Microsoft 365, Windows/AD, FortiGate/UniFi, Veeam/ESXi, PowerShell, Codex, ChatGPT, Claude" /></p>
+<p align="center"><strong>React · TypeScript · React Native · Expo · C# / .NET · Git</strong><br />Microsoft 365 · Exchange Online · Windows Server · Active Directory · Linux · FortiGate · UniFi · Veeam · VMware ESXi<br /><strong>AI:</strong> Codex · ChatGPT · Claude &nbsp;·&nbsp; <strong>Automation:</strong> PowerShell</p>
+<h2>05 / Public code &amp; earlier projects</h2>
+<p><a href="https://github.com/bymrhan/SmartPSInventory"><img src="assets/inventory.svg" width="48%" alt="SmartPSInventory repository" /></a> <a href="https://github.com/bymrhan/csharp-library-automation"><img src="assets/library.svg" width="48%" alt="C# Library Automation repository" /></a></p>
+<p><a href="https://github.com/bymrhan/Ecommerce-Website"><img src="assets/commerce.svg" width="48%" alt="Ecommerce Website repository" /></a></p>
+<p><a href="https://github.com/bymrhan?tab=repositories">Browse all public repositories →</a></p>
+
+<h2>06 / Certificates &amp; training</h2>
+<table>
+<tr><td width="50%" valign="top"><h3>📣 Social Media Management</h3><p><a href="https://github.com/bymrhan/bymrhan/files/8848120/Sosyal_Medya_Uzmanligi.pdf">View document ↗</a></p></td><td width="50%" valign="top"><h3>🔐 Blockchain Technology and Cryptography</h3><p><a href="https://github.com/bymrhan/bymrhan/files/8848300/Emrehan.Baysal.pdf">View document ↗</a></p></td></tr>
+<tr><td width="50%" valign="top"><h3>🌐 Cisco CCNA</h3></td><td width="50%" valign="top"><h3>💻 Introduction to Information Technologies</h3><p><a href="https://github.com/bymrhan/bymrhan/files/8848695/Bilgi_Teknolojilerine_Giri__Sertifika.pdf">View document ↗</a></p></td></tr>
+<tr><td width="50%" valign="top"><h3>🛡️ Security Test Training</h3></td><td width="50%" valign="top"><h3>🧩 Web Development with HTML5</h3></td></tr>
+</table>
+<details><summary><strong>📄 Resume</strong></summary><p><a href="https://drive.google.com/file/d/15BtJLWV0WxeGHWGHbVboyOfnIYZIgjpZ/view?usp=sharing">View my resume ↗</a></p></details>
+
+<hr />
+<p align="center"><strong>Let's connect, share ideas, and build useful things.</strong><br /><a href="mailto:bymrhan@gmail.com">bymrhan@gmail.com</a> · <a href="https://bionluk.com/fprbilisim">FPR Bilişim</a></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:38bdf8,100:8b5cf6&amp;height=90&amp;section=footer" width="100%" alt="Decorative blue and purple wave" /></p>
+
+
+
+
+
+
+
+
+
+
+
 
 

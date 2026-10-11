@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "type": "public_professional_profile",
+  "name": "Emrehan Baysal",
+  "github_username": "bymrhan",
+  "languages": [
+    "tr",
+    "en",
+    "es",
+    "zh-CN",
+    "ar"
+  ],
+  "description": "Software and mobile application development, IT infrastructure, automation and financial data tools.",
+  "links": {
+    "linkedin": "https://linkedin.com/in/emrehan-baysal",
+    "services": "https://bionluk.com/fprbilisim",
+    "website": "https://www.emrehanbaysal.com.tr/",
+    "github": "https://github.com/bymrhan"
+  },
+  "technologies": [
+    "React Native",
+    "Expo",
+    "TypeScript",
+    "React",
+    "C#",
+    ".NET",
+    "PowerShell",
+    "Microsoft 365",
+    "Exchange Online",
+    "Windows Server",
+    "Active Directory",
+    "FortiGate",
+    "UniFi",
+    "Veeam",
+    "VMware ESXi"
+  ],
+  "projects": [
+    {
+      "technologies": [
+        "React Native",
+        "Expo",
+        "TypeScript"
+      ],
+      "name": "Falabi",
+      "category": "mobile_application",
+      "status": "in_development"
+    },
+    {
+      "focus": [
+        "service management",
+        "Microsoft 365",
+        "email and domain analysis",
+        "monitoring",
+        "reporting"
+      ],
+      "name": "MAİA",
+      "category": "IT_management_and_intelligence",
+      "status": "in_development"
+    },
+    {
+      "focus": [
+        "market research",
+        "price tracking",
+        "dashboards"
+      ],
+      "name": "Trade",
+      "category": "financial_data_tools",
+      "status": "exploration_and_development"
+    }
+  ],
+  "public_repositories": [
+    "https://github.com/bymrhan/SmartPSInventory",
+    "https://github.com/bymrhan/csharp-library-automation",
+    "https://github.com/bymrhan/Ecommerce-Website"
+  ],
+  "indexing_note": "Factual public profile data. Project entries describe work and interests, not launch status, qualifications, financial advice or verified performance.",
+  "certificates_and_training": [
+    {
+      "name": "Social Media Management",
+      "source": "https://github.com/bymrhan/bymrhan/blob/HEAD/README.md",
+      "localized_names": {
+        "zh": "社交媒体管理",
+        "es": "Gestión de redes sociales",
+        "tr": "Sosyal Medya Uzmanlığı",
+        "ar": "إدارة وسائل التواصل الاجتماعي"
+      },
+      "document_url": "https://github.com/bymrhan/bymrhan/files/8848120/Sosyal_Medya_Uzmanligi.pdf"
+    },
+    {
+      "name": "Blockchain Technology and Cryptography",
+      "source": "https://github.com/bymrhan/bymrhan/blob/HEAD/README.md",
+      "localized_names": {
+        "zh": "区块链技术与密码学",
+        "es": "Tecnología blockchain y criptografía",
+        "tr": "Blokzincir Teknolojisi ve Kriptografi",
+        "ar": "تقنية البلوك تشين والتشفير"
+      },
+      "document_url": "https://github.com/bymrhan/bymrhan/files/8848300/Emrehan.Baysal.pdf"
+    },
+    {
+      "name": "Cisco CCNA",
+      "source": "https://github.com/bymrhan/bymrhan/blob/HEAD/README.md",
+      "localized_names": {
+        "zh": "Cisco CCNA",
+        "es": "Cisco CCNA",
+        "tr": "Cisco CCNA",
+        "ar": "Cisco CCNA"
+      }
+    },
+    {
+      "name": "Introduction to Information Technologies",
+      "source": "https://github.com/bymrhan/bymrhan/blob/HEAD/README.md",
+      "localized_names": {
+        "zh": "信息技术入门",
+        "es": "Introducción a las tecnologías de la información",
+        "tr": "Bilgi Teknolojilerine Giriş",
+        "ar": "مقدمة في تقنية المعلومات"
+      },
+      "document_url": "https://github.com/bymrhan/bymrhan/files/8848695/Bilgi_Teknolojilerine_Giri__Sertifika.pdf"
+    },
+    {
+      "name": "Security Test Training",
+      "source": "https://github.com/bymrhan/bymrhan/blob/HEAD/README.md",
+      "localized_names": {
+        "zh": "安全测试培训",
+        "es": "Formación en pruebas de seguridad",
+        "tr": "Güvenlik Testi Eğitimi",
+        "ar": "تدريب اختبارات الأمان"
+      }
+    },
+    {
+      "name": "Web Development with HTML5",
+      "source": "https://github.com/bymrhan/bymrhan/blob/HEAD/README.md",
+      "localized_names": {
+        "zh": "HTML5 Web 开发",
+        "es": "Desarrollo web con HTML5",
+        "tr": "HTML5 ile Web Geliştirme",
+        "ar": "تطوير الويب باستخدام HTML5"
+      }
+    }
+  ],
+  "ai_assisted_workflow": {
+    "activities": [
+      "idea exploration",
+      "development",
+      "code review",
+      "debugging",
+      "iteration"
+    ],
+    "tools": [
+      "Codex",
+      "ChatGPT",
+      "Claude"
+    ]
+  }
+}
