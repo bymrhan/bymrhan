@@ -5,19 +5,19 @@
 <p align="center"><img src="assets/hero-hd.png" width="100%" alt="Cinematic mobile, software and infrastructure cover" /></p><h1 align="center">Emrehan Baysal</h1><p align="center"><strong>SOFTWARE · MOBILE · INFRASTRUCTURE · AUTOMATION</strong></p>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Mobile+%26+Web+Development;Falabi+%C2%B7+MAIA+%C2%B7+Trade;AI-Assisted+Development+%26+Automation;IT+Infrastructure+%26+Microsoft+365" alt="Mobile and Web Development · Falabi · MAIA · Trade · IT Infrastructure" width="100%" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Mobile+%26+Web+Development;Mobile+Apps+%C2%B7+IT+Platforms+%C2%B7+Trade;AI-Assisted+Development+%26+Automation;IT+Infrastructure+%26+Microsoft+365" alt="Mobile and Web Development · تطبيق تجربة الهاتف · منصة إدارة تقنية المعلومات · Trade · IT Infrastructure" width="100%" /></a>
 </p>
 
 <p align="center"><a href="https://www.emrehanbaysal.com.tr/"><img src="assets/contact-website.ar.svg" width="23%" alt="الموقع الإلكتروني — emrehanbaysal.com.tr" /></a> <a href="https://linkedin.com/in/emrehan-baysal"><img src="assets/contact-linkedin.ar.svg" width="23%" alt="LinkedIn — emrehan-baysal" /></a> <a href="mailto:bymrhan@gmail.com"><img src="assets/contact-email.ar.svg" width="23%" alt="البريد الإلكتروني — bymrhan@gmail.com" /></a> <a href="https://bionluk.com/fprbilisim"><img src="assets/contact-bionluk.ar.svg" width="23%" alt="Bionluk — FPR Bilişim" /></a> </p>
 
 <h2>01 / شغف بصناعة المنتجات ᓚᘏᗢ</h2>
 <p>مرحباً، أنا <strong>Emrehan</strong>. أطور تطبيقات الهاتف والويب، وأستكشف الأتمتة، وأعمل على البنية التحتية التي تحافظ على تشغيل الأنظمة.</p>
-<p>يجمع عملي بين تطوير البرمجيات وتصميم المنتجات والبنية التحتية وأدوات البيانات. من خلال Falabi وMAİA والأفكار المرتبطة بـ Trade، أحول الاحتياجات العملية إلى منتجات مفيدة عبر تصميم الواجهات وربط الخدمات وتحسين تجربة الاستخدام.</p>
+<p>يجمع عملي بين تطوير البرمجيات وتصميم المنتجات والبنية التحتية وأدوات البيانات. من خلال تطبيق تجربة الهاتف ومنصة إدارة تقنية المعلومات والأفكار المرتبطة بـ Trade، أحول الاحتياجات العملية إلى منتجات مفيدة عبر تصميم الواجهات وربط الخدمات وتحسين تجربة الاستخدام.</p>
 <p>أستخدم أدوات الذكاء الاصطناعي لاستكشاف الأفكار ومراجعة الشيفرة وتصحيح الأخطاء وتحسين الميزات. أهتم أيضاً بتحليل الأسواق المالية والتصميم المرئي وأتمتة المهام المتكررة، وأحب تبادل الأفكار مع الآخرين.</p>
 
 <h2>02 / ما أعمل عليه وأستكشفه</h2>
 <table>
-<tr><td width="50%" valign="top"><h3>🔮 Falabi</h3><p><strong>تطوير تطبيقات الهاتف</strong></p><p>أعمل على منتج للهاتف باستخدام React Native وExpo وTypeScript، مع الاهتمام بتصميم الواجهات والحركة والتنقل والتعريب وتجربة المستخدم.</p><p>قيد التطوير · الهاتف / المنتج / تجربة المستخدم</p></td><td width="50%" valign="top"><h3>🧠 MAİA</h3><p><strong>أدوات إدارة وتحليل تقنية المعلومات</strong></p><p>أطور سير عمل لإدارة الخدمات وMicrosoft 365 وتحليل البريد والنطاقات والمراقبة والتنبيهات والتقارير.</p><p>قيد التطوير · الويب / البنية التحتية / التحليل</p></td></tr>
+<tr><td width="50%" valign="top"><h3>🔮 تطبيق تجربة الهاتف</h3><p><strong>تطوير تطبيقات الهاتف</strong></p><p>أعمل على منتج للهاتف باستخدام React Native وExpo وTypeScript، مع الاهتمام بتصميم الواجهات والحركة والتنقل والتعريب وتجربة المستخدم.</p><p>قيد التطوير · الهاتف / المنتج / تجربة المستخدم</p></td><td width="50%" valign="top"><h3>🧠 منصة إدارة تقنية المعلومات</h3><p><strong>أدوات إدارة وتحليل تقنية المعلومات</strong></p><p>أطور سير عمل لإدارة الخدمات وMicrosoft 365 وتحليل البريد والنطاقات والمراقبة والتنبيهات والتقارير.</p><p>قيد التطوير · الويب / البنية التحتية / التحليل</p></td></tr>
 <tr><td width="50%" valign="top"><h3>📈 Trade وأدوات الأسواق</h3><p><strong>البيانات المالية والتحليل</strong></p><p>أستكشف أبحاث الأسواق وتتبع الأسعار ولوحات المعلومات وأدوات برمجية تسهل متابعة البيانات المالية وفهمها.</p><p>استكشاف وتطوير · البيانات / الأسواق</p></td><td width="50%" valign="top"><h3>⚡ الأتمتة والذكاء الاصطناعي</h3><p><strong>عمل متكرر أقل وأدوات أكثر فائدة</strong></p><p>أستكشف السكربتات وأدوات المتصفح واستخراج البيانات وإعداد التقارير، وأستخدم التطوير بمساعدة الذكاء الاصطناعي لتحويل الأفكار إلى ميزات عملية.</p><p>تجارب مستمرة · الأدوات / التكامل</p></td></tr>
 </table>
 

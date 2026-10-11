@@ -3,19 +3,19 @@
 <p align="center"><img src="assets/hero-hd.png" width="100%" alt="Cinematic mobile, software and infrastructure cover" /></p><h1 align="center">Emrehan Baysal</h1><p align="center"><strong>SOFTWARE · MOBILE · INFRASTRUCTURE · AUTOMATION</strong></p>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Mobile+%26+Web+Development;Falabi+%C2%B7+MAIA+%C2%B7+Trade;AI-Assisted+Development+%26+Automation;IT+Infrastructure+%26+Microsoft+365" alt="Mobile and Web Development · Falabi · MAIA · Trade · IT Infrastructure" width="100%" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Mobile+%26+Web+Development;Mobile+Apps+%C2%B7+IT+Platforms+%C2%B7+Trade;AI-Assisted+Development+%26+Automation;IT+Infrastructure+%26+Microsoft+365" alt="Mobile and Web Development · 移动体验应用 · IT 管理平台 · Trade · IT Infrastructure" width="100%" /></a>
 </p>
 
 <p align="center"><a href="https://www.emrehanbaysal.com.tr/"><img src="assets/contact-website.zh.svg" width="23%" alt="个人网站 — emrehanbaysal.com.tr" /></a> <a href="https://linkedin.com/in/emrehan-baysal"><img src="assets/contact-linkedin.zh.svg" width="23%" alt="LinkedIn — emrehan-baysal" /></a> <a href="mailto:bymrhan@gmail.com"><img src="assets/contact-email.zh.svg" width="23%" alt="电子邮箱 — bymrhan@gmail.com" /></a> <a href="https://bionluk.com/fprbilisim"><img src="assets/contact-bionluk.zh.svg" width="23%" alt="Bionluk — FPR Bilişim" /></a> </p>
 
 <h2>01 / 热爱创造 ᓚᘏᗢ</h2>
 <p>你好，我是 <strong>Emrehan</strong>。我开发移动和 Web 应用，探索自动化，并维护让系统稳定运行的 IT 基础设施。</p>
-<p>我的工作结合软件开发、产品设计、IT 基础设施和数据工具。通过 Falabi、MAİA 以及 Trade 相关想法，我将实际需求转化为实用产品，设计界面、连接服务并持续改进体验。</p>
+<p>我的工作结合软件开发、产品设计、IT 基础设施和数据工具。通过 移动体验应用、IT 管理平台 以及 Trade 相关想法，我将实际需求转化为实用产品，设计界面、连接服务并持续改进体验。</p>
 <p>我使用 AI 工具探索想法、审查代码、调试和迭代功能。我也关注金融市场分析、视觉设计和重复任务的自动化，喜欢与充满好奇心的人交流。</p>
 
 <h2>02 / 正在开发与探索</h2>
 <table>
-<tr><td width="50%" valign="top"><h3>🔮 Falabi</h3><p><strong>移动应用开发</strong></p><p>使用 React Native、Expo 和 TypeScript 开发移动产品，关注界面设计、动画、导航、本地化和用户体验。</p><p>开发中 · 移动应用 / 产品 / UX</p></td><td width="50%" valign="top"><h3>🧠 MAİA</h3><p><strong>IT 管理与分析工具</strong></p><p>开发围绕服务管理、Microsoft 365、邮件和域名分析、监控、告警及报告的工作流程。</p><p>开发中 · Web / 基础设施 / 分析</p></td></tr>
+<tr><td width="50%" valign="top"><h3>🔮 移动体验应用</h3><p><strong>移动应用开发</strong></p><p>使用 React Native、Expo 和 TypeScript 开发移动产品，关注界面设计、动画、导航、本地化和用户体验。</p><p>开发中 · 移动应用 / 产品 / UX</p></td><td width="50%" valign="top"><h3>🧠 IT 管理平台</h3><p><strong>IT 管理与分析工具</strong></p><p>开发围绕服务管理、Microsoft 365、邮件和域名分析、监控、告警及报告的工作流程。</p><p>开发中 · Web / 基础设施 / 分析</p></td></tr>
 <tr><td width="50%" valign="top"><h3>📈 Trade 与市场工具</h3><p><strong>金融数据与分析</strong></p><p>探索市场研究、价格跟踪、仪表盘，以及帮助理解金融数据的软件工具。</p><p>探索与开发 · 数据 / 市场</p></td><td width="50%" valign="top"><h3>⚡ 自动化与 AI</h3><p><strong>减少重复工作，创造实用工具</strong></p><p>探索脚本、浏览器工具、数据提取和报告流程，使用 AI 辅助开发将想法转化为实用功能。</p><p>持续探索 · 工具 / 集成</p></td></tr>
 </table>
 
